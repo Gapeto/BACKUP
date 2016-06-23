@@ -6,4 +6,4 @@ Author: Gapeto LLC
 Version: 1.0
 Author URI: https://www.gapeto.com/
 */
-require WPMU_PLUGIN_DIR.'/membership/my-plugin.php';
+require WPMU_PLUGIN_DIR.'/Membership/my-plugin.php';
